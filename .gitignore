@@ -173,6 +173,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+data
 experiments
 logs
 reports
+dvc.lock
