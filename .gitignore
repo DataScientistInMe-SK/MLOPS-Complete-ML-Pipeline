@@ -177,4 +177,8 @@ data
 experiments
 logs
 reports
-dvc.lock
+.dvc
+
+data/interim
+data/processed
+data/raw
